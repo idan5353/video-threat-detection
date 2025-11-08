@@ -6,3 +6,12 @@
 /test.mp4
 /test.txt
 node_modules
+# Terraform directories
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tf.json
+terraform.tfstate.backup
+.terraform.lock.hcl
