@@ -46,7 +46,6 @@ The Video Threat Detection System is a cloud-native application that demonstrate
 - 🚀 **Fast Deployments** - 5-minute full stack deployments
 - 💰 **Cost Optimization** - Pay-per-use serverless model
 
-## 🏗️ Architecture
 
 
 
