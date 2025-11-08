@@ -8,28 +8,10 @@
 
 A **production-ready, serverless video threat detection platform** built on AWS using Infrastructure as Code. The system enables real-time video analysis with intelligent threat detection and instant WebSocket notifications.
 
-![Architecture Diagram](./docs/architecture-diagram.png)
+![videodiagram](https://github.com/user-attachments/assets/c9cebcb8-9e77-408e-ade2-93f8e4b7788e)
 
-## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [API Documentation](#api-documentation)
-- [Monitoring](#monitoring)
-- [Security](#security)
-- [Cost Optimization](#cost-optimization)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## 🎯 Overview
 
@@ -43,6 +25,8 @@ The Video Threat Detection System is a cloud-native application that demonstrate
 - ✅ **Cost-Optimized** - 60% cost savings vs traditional server architectures
 - ✅ **Production-Ready** - Comprehensive monitoring, logging, and error handling
 - ✅ **Secure by Design** - IAM least privilege, encryption, presigned URLs
+
+![threatsdetect1](https://github.com/user-attachments/assets/9f7686db-3e43-4bba-a682-303f24c36130)
 
 ## ✨ Features
 
